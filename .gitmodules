@@ -1,0 +1,4 @@
+[submodule "usbpendrive/openacademy-odoo11"]
+	path = usbpendrive/openacademy-odoo11
+	url = git@github.com:usbpendrive/openacademy-odoo11.git
+	branch = master
