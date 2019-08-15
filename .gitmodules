@@ -1,0 +1,4 @@
+[submodule "muralikrishnareddy/blue_theme"]
+	path = muralikrishnareddy/blue_theme
+	url = git@github.com:muralikrishnareddy/blue_theme.git
+	branch = master
